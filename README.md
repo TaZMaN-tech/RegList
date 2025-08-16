@@ -11,10 +11,10 @@
 ## 🔹 Скриншоты  
 
 <p float="left">
-  <img src="Screenshots/registration.png" width="250">
-  <img src="Screenshots/error.png" width="250">
-  <img src="Screenshots/main.png" width="250">
-  <img src="Screenshots/greeting.png" width="250">
+  <img src="screenshots/registration.png" width="250">
+  <img src="screenshots/error.png" width="250">
+  <img src="screenshots/main.png" width="250">
+  <img src="screenshots/greeting.png" width="250">
 </p>
 
 ---
